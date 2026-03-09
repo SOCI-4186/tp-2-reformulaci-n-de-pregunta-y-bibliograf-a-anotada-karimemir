@@ -1,7 +1,15 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2  \nReformulación de pregunta y Bibliografía anotada  \nIndividual / Nombre del grupo"
-author: "Pon tu nombre aquí  \nNúmero de estudiante"
+subtitle: "Tarea de Proyecto de Investigación — №2 \n Reformulación de pregunta y Bibliografía anotada \n Nombre del grupo"
+
+author:
+      - name: "Karina Rivera Pineiro"
+        affiliations: "845-19-6155"
+      - name: "Veronica Soto Figueroa"
+        affiliations: "845-19-6155"
+      - name: "Zul Flores Fuentes"
+        affiliations: "801-19-8709"
+        
 date: today
 date-format: long
 lang: es
@@ -24,55 +32,69 @@ csl: apa-clacso.csl
 
 **Entrega doble:**
 
-- **GitHub Classroom**: commit y push del repositorio (QMD + archivos fuente).
-- **Microsoft Teams**: subir el **HTML renderizado** a la asignación correspondiente en Teams. Si prefieren subir un PDF, pueden generar uno desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
+-   **GitHub Classroom**: commit y push del repositorio (QMD + archivos fuente).
+-   **Microsoft Teams**: subir el **HTML renderizado** a la asignación correspondiente en Teams. Si prefieren subir un PDF, pueden generar uno desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
 
----
+------------------------------------------------------------------------
 
 ## Instrucciones generales
 
-1. Aceptarán la asignación en GitHub Classroom y clonarán el repositorio correspondiente. Trabajarán el documento en **Quarto** desde RStudio.
+1.  Aceptarán la asignación en GitHub Classroom y clonarán el repositorio correspondiente. Trabajarán el documento en **Quarto** desde RStudio.
 
-2. Si el trabajo fuere individual, dejen sólo "Individual" en el subtítulo; si fuere grupal, cambien el texto de plantilla por el nombre del grupo.
+2.  Si el trabajo fuere individual, dejen sólo "Individual" en el subtítulo; si fuere grupal, cambien el texto de plantilla por el nombre del grupo.
 
-3. Cambien el campo `author:` en el encabezado YAML. Si es individual: su nombre completo y número de estudiante. Si es en grupo, usen el formato:
-   ```yaml
-   author:
-     - name: "Estudiante 1"
-       affiliations: "№ de Estudiante 1"
-     - name: "Estudiante 2"
-       affiliations: "№ de Estudiante 2"
-   ```
+3.  Cambien el campo `author:` en el encabezado YAML. Si es individual: su nombre completo y número de estudiante. Si es en grupo, usen el formato:
 
-4. Presten atención a la ortografía y sintaxis española (acentos, tildes, diéresis) o escriban en una de las tres modalidades de inglés discutidas: británico, Oxford o estadounidense. Cíñanse a una lengua a través de todo el documento.
+    ``` yaml
+    author:
+      - name: "Estudiante 1"
+        affiliations: "№ de Estudiante 1"
+      - name: "Estudiante 2"
+        affiliations: "№ de Estudiante 2"
+    ```
 
-5. Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **HTML renderizado** a la asignación en Microsoft Teams. Si prefieren entregar un PDF, pueden generarlo desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
+4.  Presten atención a la ortografía y sintaxis española (acentos, tildes, diéresis) o escriban en una de las tres modalidades de inglés discutidas: británico, Oxford o estadounidense. Cíñanse a una lengua a través de todo el documento.
+
+5.  Renderizarán el documento en Quarto (Ctrl+Shift+K o botón Render) para generar el HTML. Harán commit y push al repositorio de GitHub Classroom, y además subirán el **HTML renderizado** a la asignación en Microsoft Teams. Si prefieren entregar un PDF, pueden generarlo desde el navegador: abran el HTML, Ctrl+P (o Cmd+P en Mac) → «Guardar como PDF».
 
 **Nota sobre colaboración:** Si trabajan en grupo, pueden colaborar con estudiantes de cualquiera de las dos secciones del curso (sección 001 de la mañana o sección 002 de la tarde).
 
----
+------------------------------------------------------------------------
 
 # Formato del documento
 
 El documento debe incluir:
 
-- Reformulación de la pregunta de investigación.
-- Citas y anotaciones de cada fuente. Las fuentes deben ser artículos académicos o libros publicados por editoriales universitarias. No incluya informes de *think tanks*.
+-   Reformulación de la pregunta de investigación.
+-   Citas y anotaciones de cada fuente. Las fuentes deben ser artículos académicos o libros publicados por editoriales universitarias. No incluya informes de *think tanks*.
 
----
+------------------------------------------------------------------------
 
 # Parte 1: Reformulación de la pregunta de investigación
 
 Presente su pregunta de investigación refinada y, en 250–500 palabras, responda a las siguientes preguntas sobre ella:
 
-- ¿Es la pregunta principalmente de tipo inductiva o deductiva?
-- ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
-- ¿Cómo aborda su pregunta una brecha en la literatura relevante?
-- ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
+-   ¿Es la pregunta principalmente de tipo inductiva o deductiva?
+-   ¿Por qué es interesante e importante? (Revise la presentación *Repaso diseño en Ciencias Sociales*, disponible en Teams, para recordar cómo argumentar la relevancia).
+-   ¿Cómo aborda su pregunta una brecha en la literatura relevante?
+-   ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
 
-[Escriba aquí su reformulación de la pregunta de investigación...]
+\[ Pregunta de investigacion: Cómo las normas socioculturales afectan la percepción del placer sexual entre mujeres universitarias en Puerto Rico?
 
----
+La pregunta de investigación es principalmente deductiva, ya que parte de ideas y teorías existentes sobre cómo la sociedad influye en la forma en que las personas entienden la sexualidad. Siempre se ha demostrado que la educación sexual y la expectativa de la sociedad sobre nuestro comportamiento, los roles de género, influyen en las percepciones y comportamientos relacionados con la sexualidad. Por ejemplo, se ha comprobado que muchas personas tienen una visión limitada de la sexualidad porque ha sido enseñada principalmente desde un enfoque biológico, religioso o reproductivo, dejando de lado otras dimensiones como el placer o el bienestar emocional Gracias a esa falta de información y conciencia, esta investigación busca analizar cómo esas normas socioculturales influyen específicamente en el placer sexual femenino y mi población serán las estudiantes de la Universidad de 
+Puerto Rico Recinto de Río Piedras.
+
+¿Por qué es interesante e importante?
+Esta pregunta es importante porque la sexualidad femenina ha sido atropellada, silenciada e invisibilizada históricamente por normas sociales, culturales y religiosas que han limitado el conocimiento, la forma en que se habla y se entiende el placer sexual de las mujeres. Muchos artículos y estudios han señalado que la sexualidad suele enseñarse de manera incompleta, lo que puede generar  desconocimiento o ideas negativas sobre el propio cuerpo. Analizar este tema en estudiantes universitarias es relevante porque este grupo se encuentra en una etapa de desarrollo, y en la práctica sexual mientras están construyendo sus propias ideas sobre la sexualidad, las relaciones y el cuerpo.
+
+¿Cómo aborda su pregunta una brecha en la literatura relevante?
+Esta investigación aborda una brecha en la literatura porque muchos estudios sobre sexualidad se han enfocado principalmente en la educación sexual infantil o en aspectos biológicos de la sexualidad. No obstante, existe menos investigación sobre cómo las normas sociales y culturales influyen específicamente en el placer sexual femenino. Además, investigar este tema dejándome llevar por las mujeres universitarias permite analizar cómo esto sigue influyendo incluso en personas jóvenes con mayor acceso a educación e información.
+
+¿Cuáles son las implicaciones de responderla?
+Responder esta pregunta permitirá comprender mejor cómo las normas socioculturales influyen en la manera en que las mujeres experimentan su sexualidad, específicamente el placer.  Los resultados pueden ayudar a identificar que es lo que realmente  limita el reconocimiento del placer sexual femenino. Además, esto puede contribuir a mejorar la educación sexual y promover una visión más abierta y completa de la sexualidad, basada en el respeto, la autonomía, el conocimiento del propio cuerpo y el bienestar
+\]
+
+------------------------------------------------------------------------
 
 # Parte 2: Bibliografía anotada
 
@@ -80,52 +102,141 @@ Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada 
 
 **Requisitos:**
 
-- Las fuentes académicas incluyen artículos en revistas académicas y/o libros publicados por editoriales académicas (normalmente, estos tienen la palabra «Universidad» en su nombre).
-- Las fuentes académicas **NO** incluyen informes de *think tanks*, ya que dichos informes no son revisados por pares; tampoco incluyen artículos de periódicos o revistas no académicas.
-- Sus fuentes para la bibliografía anotada deben ayudarle a desarrollar sus conceptos, medidas y marco teórico/analítico. Estas fuentes **NO** deben ser fuentes de datos.
+-   Las fuentes académicas incluyen artículos en revistas académicas y/o libros publicados por editoriales académicas (normalmente, estos tienen la palabra «Universidad» en su nombre).
+-   Las fuentes académicas **NO** incluyen informes de *think tanks*, ya que dichos informes no son revisados por pares; tampoco incluyen artículos de periódicos o revistas no académicas.
+-   Sus fuentes para la bibliografía anotada deben ayudarle a desarrollar sus conceptos, medidas y marco teórico/analítico. Estas fuentes **NO** deben ser fuentes de datos.
 
 **Para cada fuente incluya:**
 
-1. Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
-2. Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
-
-## Ejemplo de entrada en la bibliografía anotada
-
-::: {.callout-warning}
-## Borre este ejemplo antes de entregar
-
-La siguiente entrada es un **ejemplo ilustrativo**. Debe **eliminarla** de su documento y sustituirla por sus propias fuentes en la sección «Sus fuentes anotadas» más abajo.
-:::
-
-**1.** @hall2009institutional
-
-**Anotación:** En este artículo, Hall y Thelen exploran cómo las instituciones económicas evolucionan en diferentes sistemas de economía de mercado. Analizan los mecanismos de cambio institucional y argumentan que las instituciones no son estáticas, sino que cambian a través de procesos graduales influenciados por actores políticos y económicos. El estudio adopta un enfoque deductivo, desarrollando su marco teórico a partir de conceptos existentes, y utiliza análisis teórico y comparativo para determinar sus hallazgos estudiando casos.
-
----
+1.  Una cita en formato APA (use la sintaxis `@clave` de Quarto para citar automáticamente desde su archivo `.bib`).
+2.  Un párrafo resumen (tres o cuatro oraciones) por fuente, explicando los puntos principales y cómo esta es útil para su investigación. No copie textos directamente de las fuentes. Las reglas de plagio aplican.
 
 ## Sus fuentes anotadas
 
-[Agregue aquí sus 5-8 fuentes con sus respectivas anotaciones...]
+\[ **1.** [@bravo2020abordajes]
 
-**1.** [Cita de la fuente 1]
+**Anotación:** \[ En este artículo la autora pone en perspectiva el placer sexual, no solamente desde un punto de vista biológico o médico como lleva estudiándose por años. Ella explica que el placer sexual es algo más complicado, tomando en consideración factores sociales, culturales, antropológicos, roles de género y cómo esto impacta directamente a nosotros los seres humanos como vivimos y experimentamos nuestra sexualidad. En la lectura explica que la sexualidad se construye a través de todos esos factores sociales. En la lectura se divide la sexualidad de dos maneras: moderna y posmoderna. La sexualidad moderna es la que nos han inculcado a muchos y es la que la mayoría conoce, esta se basa en las ideologías tradicionales sobre el comportamiento sexual de las personas. La posmoderna, explica los cambios que han ocurrido sobre la percepción de la sexualidad gracias a los factores y movimientos sociales que han impulsado este cambio. En conclusión, la autora recomienda seguir investigando sobre el placer sexual desde una perspectiva que incluya más a las ciencias sociales. \]
 
-**Anotación:** [Su anotación aquí...]
+**2.** [@ronconi2023educacion]
 
-**2.** [Cita de la fuente 2]
+**Anotación:** \[Este artículo ofrece sugerencias y críticas constructivas sobre como debería desarrollarse la educación sexual en América Latina y el Caribe en el futuro. Explican que la educación sexual integral es algo esencial que todos los seres humanos debemos saber. Una educación sexual integral nos provee las herramientas necesarias para crear mejores vínculos, respetar la diversidad, eliminar los roles de género, conectar con nuestra sexualidad y placer y garantizar autonomía sobre nuestros cuerpos. Las autoras destacan que en la integralidad están todas las perspectivas, no solamente las ciencias sociales o las ciencias naturales, sino que ambas deberían complementarse. Destacan que los docentes encargados de educar a las futuras generaciones deben de capacitarse de manera respetuosa y adecuada para enseñar estos temas de suma importancia. Se hace énfasis en promover y fortalecer las políticas públicas para promover una educación sexual en todos los países de Latinoamérica. \]
 
-**Anotación:** [Su anotación aquí...]
+**3.** [@rivas2019construccion] 
 
-[Continúe con las demás fuentes...]
+**Anotación:** \[El artículo profundiza sobre los discursos hegemónicos sobre la sexualidad de las mujeres utilizando el fenómeno de la acucación o eyaculación. Se explica cómo estos discursos sólo promueven ignorancia y desinformación teniendo un impacto físico, mental y emocional limitando la posibilidad de las mujeres de experimentar con el placer sexual. La autora explica que el desconocimiento no se debe a la falta de investigación médica, sino que esto se debe a la invisibilización del cuerpo femenino. Se argumenta que la filosofía y la religión han influido en cómo la sociedad percibe la sexualidad femenina. Se utilizan textos académicos para poder lograr identificar cómo estos han producido la ignorancia sobre en este caso, la eyaculación femenina. El propósito de la autora es promover una visión de la sexualidad basándose en la autonomía.\]
+
+**4.** [@de2008cuerpo]
+
+**Anotación:** \[En este artículo se analiza cómo la medicina medieval y la religión veían o estudiaban el cuerpo femenino y el placer sexual. La religión, que acapara mucho poder en ese contexto histórico, creaba muchas limitaciones para las mujeres. En el texto se explica que en la medicina medieval estudiaban el sexo únicamente desde una perspectiva reproductiva y biológica. Estas ideas que se tenían sobre el placer sexual femenino estaban ligadas a las normas socioculturales y religiosas de ese contexto histórico, limitando la comprensión de nuestra sexualidad. Para concluir, la autora expone que la medicina medieval exploró la sexualidad femenina solamente dándole atención a la reproducción y descartando completamente el placer sexual.\] 
+
+**5.**[@castro2014placer]
+
+**Anotación:** \[Este artículo indaga a profundidad el rol de la filosofía y cómo esto ha influido en la construcción del cuerpo femenino. La autora explica que la filosofía y la religión le ha asignado a las mujeres asumir ciertos roles como la maternidad, crianza, cuidado y obediencia. Negándoles su autonomía y el placer sexual. La lectura revela los argumentos de dichos filósofos y expone como ellos justifican sus ideologías que va en contra de las mujeres. Algunos de ellos asociaban el cuerpo de la mujer como pecado y otros veían los cuerpos femeninos como algo inferior a las almas. Estas ideas reforzaban los roles sociales y la cultura patriarcal. La autora concluye en cómo estas ideas contribuyen a la desigualdad de los hombres y las mujeres cuando se trata de explorar el placer sexual.] 
+
+**6.** [@cevallos2014educacion]
+
+**Anotación:** \[Este artículo se basa en unos estudios cualitativos basados en grupos focales con padres de familias en los centros educativos en la ciudad de Cuenca en Ecuador. El propósito es entender cómo los padres perciben lo que es la sexualidad infantil  y que ellos hacen para la educación sexual de sus hijos. En la lectura se muestra que la mayoría tiene una visión muy cerrada y limitada de la sexualidad. Solamente lo vinculan con la reproducción y aspectos biológicos. Explican que por culpa de los tabúes y las percepciones tradicionales de lo que es la sexualidad dificulta y limita a los padres sobre la sexualidad con sus hijos. Los autores promueven la educación sexual integral y argumentan que todo debe comenzar desde los hogares. ]
+
+**7.** [@marmol2016conocimientos]
+
+**Anotación:** \[Este estudio presenta los conocimientos sobre sexualidad de estudiantes universitarios que comienzan sus estudios en Educación Infantil y Primaria. El objetivo de todo esto era probar que tanto conocían sobre la sexualidad, enfermedades de transmisión sexual y métodos anticonceptivos. Se demostró que la mayoría de los estudiantes estaban sexualmente activos. Sin embargo, se muestra que hay mucho desconocimiento en la sexualidad en general. Se revela que la mayoría de los estudiantes se protegen para evitar embarazos no deseados pero no para evitar enfermedades de transmisión sexual. Además, hay una gran diferencia en el conocimiento entre hombres y mujeres, las mujeres llevan la delantera. La lectura finaliza explicando que la educación sexual debe reforzarse en la adolescencia y juventud.] 
+
+**8.** [@ballesteros2014voz] 
+
+**Anotación:** \[Este artículo expone las experiencias de las mujeres que han sido víctimas de la mutilación genital femenina y cómo esto causa daños permanentes en su salud sexual y reproductiva. La investigación se basa en mujeres inmigrantes que vienen de África Subsahariana que viven en España. Este estudio presenta como eso les ha afectado en su vida, en el parto, embarazo, relaciones de pareja, etc. Se revela que actualmente algunos países practican la mutilación femenina por presión social y familiar. Las mujeres relatan que esta tradición sigue pasando de generación en generación. Explican como esto les afecta en sus relaciones y las consecuencias negativas que esto les trae como experimentar dolor al tener relaciones sexuales y dificultad para sentir placer. Los autores concluyen con que la mutilación genital femenina trae consecuencias dolorosas para las mujeres.]\]
 
 ---
 
 # Declaración de uso de MEL {.unnumbered}
 
-[Si utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM), complete esta sección según las instrucciones del sílabo. De lo contrario, indique "No se utilizaron herramientas de MEL en esta tarea."]
+\[Si se utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM) al final para que verificara si las referencias en formato APA & estan correctas. Tambien le pregunte como iba un paso atras ya que habia cometido un error.\]
 
----
+------------------------------------------------------------------------
 
 # Referencias {.unnumbered}
 
-::: {#refs}
-:::
+::: { @article{bravo2020abordajes,
+  title={Abordajes socioculturales sobre pr{\'a}cticas y significados del placer sexual},
+  author={Bravo Ponce, Alejandra},
+  journal={Iztapalapa. Revista de ciencias sociales y humanidades},
+  volume={41},
+  number={88},
+  pages={43--72},
+  year={2020},
+  publisher={Universidad Aut{\'o}noma Metropolitana}
+}
+
+@article{ronconi2023educacion,
+  title={Educaci{\'o}n sexual integral en Am{\'e}rica Latina y el caribe: D{\'o}nde estamos y hacia d{\'o}nde deber{\'\i}amos ir},
+  author={Ronconi, Liliana and Espi{\~n}eira, Brenda and Guzm{\'a}n, Soledad},
+  journal={Latin american legal studies},
+  volume={11},
+  number={1},
+  pages={246--296},
+  year={2023},
+  publisher={SciELO Chile}
+}
+
+@article{rivas2019construccion,
+  title={La construcci{\'o}n social del placer sexual femenino en occidente: el caso de la acuaci{\'o}n},
+  author={Rivas Lis, Patricia},
+  year={2019},
+  publisher={Universitat Oberta de Catalunya (UOC)}
+}
+
+@article{de2008cuerpo,
+  title={El cuerpo del deseo. El discurso m{\'e}dico medieval sobre el placer sexual},
+  author={de Calatrava, Paloma Moral},
+  journal={Studium Medievale. Revista de Cultura visual--Cultura escrita},
+  volume={1},
+  pages={135--147},
+  year={2008}
+}
+,
+  @title={El cuerpo del deseo. El discurso m{\'e}dico medieval sobre el placer sexual},
+  author={de Calatrava, Paloma Moral},
+  journal={Studium Medievale. Revista de Cultura visual--Cultura escrita},
+  volume={1},
+  pages={135--147},
+  year={2008}
+}
+
+@phdthesis{castro2014placer,
+  title={Placer, reproducci{\'o}n y exclusi{\'o}n femenina o de c{\'o}mo el cuerpo femenino ha sido excluido del ejercicio de la sexualidad},
+  author={Castro Far{\'\i}as, Jazm{\'\i}n Ernestina},
+  year={2014},
+  school={Universidad Aut{\'o}noma de la Ciudad de M{\'e}xico: Colegio de Humanidades y~…}
+}
+
+@article{cevallos2014educacion,
+  title={?` Educaci{\'o}n sexual para mi hijo e hija de preescolar (3-5 a{\~n}os)?: Percepciones de padres y madres de familia},
+  author={Cevallos-Neira, Ana Cristina and Jerves-Hermida, Elena Monserrath},
+  journal={Revista Electr{\'o}nica Educare},
+  volume={18},
+  number={3},
+  pages={91--110},
+  year={2014},
+  publisher={http://creativecommons. org/licenses/by-nc-nd/3.0/}
+}
+
+@article{marmol2016conocimientos,
+  title={Conocimientos y actitudes sobre sexualidad en adolescentes de primer curso de Grado en Educaci{\'o}n Infantil y Primaria de la Universidad de Ja{\'e}n},
+  author={M{\'a}rmol, Mar{\'\i}a Rodr{\'\i}guez and Cruz, Rafael Mu{\~n}oz and Mu{\~n}oz, In{\'e}s S{\'a}nchez},
+  journal={Enfermer{\'\i}a global},
+  volume={15},
+  number={1},
+  pages={167--173},
+  year={2016},
+  publisher={Universidad de Murcia}
+}
+
+@article{ballesteros2014voz,
+  title={La voz de las mujeres sometidas a mutilaci{\'o}n genital femenina en la Regi{\'o}n de Murcia},
+  author={Ballesteros Meseguer, Carmen and Almansa Mart{\'\i}nez, Pilar and Pastor Bravo, Mar{\'\i}a del Mar and Jim{\'e}nez Ruiz, Ismael},
+  journal={Gaceta Sanitaria},
+  volume={28},
+  pages={287--291},
+  year={2014},
+  publisher={SciELO Public Health}
+}
+:::}
