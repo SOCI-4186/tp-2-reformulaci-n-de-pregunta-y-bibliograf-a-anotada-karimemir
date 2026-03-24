@@ -1,14 +1,10 @@
 ---
 title: "SOCI 4186"
-subtitle: "Tarea de Proyecto de Investigación — №2 \n Reformulación de pregunta y Bibliografía anotada \n Nombre del grupo"
+subtitle: "Tarea de Proyecto de Investigación — №2 \n Reformulación de pregunta y Bibliografía anotada \n Individual"
 
 author:
-      - name: "Karina Rivera Pineiro"
-        affiliations: "845-19-6155"
-      - name: "Veronica Soto Figueroa"
-        affiliations: "845-19-6155"
-      - name: "Zul Flores Fuentes"
-        affiliations: "801-19-8709"
+      - name: "Karim Emir González Torres"
+        affiliations: "846-20-4615"
         
 date: today
 date-format: long
@@ -79,19 +75,19 @@ Presente su pregunta de investigación refinada y, en 250–500 palabras, respon
 -   ¿Cómo aborda su pregunta una brecha en la literatura relevante?
 -   ¿Cuáles son las implicaciones de responderla? (¿Qué aprenderemos de su investigación?).
 
-\[ Pregunta de investigacion: Cómo las normas socioculturales afectan la percepción del placer sexual entre mujeres universitarias en Puerto Rico?
+\[ Pregunta de investigacion: ¿Cómo está relacionado el "doomscrolling" con el tiempo de uso de pantalla promedio y la procrastinación académica en estudiantes de la Universidad de Puerto Rico, recinto de Río Piedras?
 
-La pregunta de investigación es principalmente deductiva, ya que parte de ideas y teorías existentes sobre cómo la sociedad influye en la forma en que las personas entienden la sexualidad. Siempre se ha demostrado que la educación sexual y la expectativa de la sociedad sobre nuestro comportamiento, los roles de género, influyen en las percepciones y comportamientos relacionados con la sexualidad. Por ejemplo, se ha comprobado que muchas personas tienen una visión limitada de la sexualidad porque ha sido enseñada principalmente desde un enfoque biológico, religioso o reproductivo, dejando de lado otras dimensiones como el placer o el bienestar emocional Gracias a esa falta de información y conciencia, esta investigación busca analizar cómo esas normas socioculturales influyen específicamente en el placer sexual femenino y mi población serán las estudiantes de la Universidad de 
-Puerto Rico Recinto de Río Piedras.
+¿Es la pregunta principalmente de tipo inductiva o deductiva?
+La pregunta de investigación es principalmente inductiva, pues se recopilarán datos sobre el tiempo de uso de pantalla promedio de los estudiantes universitarios y cuánto tiempo se dedica a aplicaciones de entretenimiento y redes sociales con opciones de scrolling (Instagram, Facebook, YouTube, TikTok), con el fin de estudiar si existe una relación entre el doomscrolling (consumo excesivo de contenido mediante videos cortos) y la procrastinación académica. Estos datos permitirán inferir estadísticamente si existe una relación significativa. La hipótesis es que, a mayor tiempo de uso de pantalla dedicado al doomscrolling, mayor es el nivel de procrastinación académica.
 
 ¿Por qué es interesante e importante?
-Esta pregunta es importante porque la sexualidad femenina ha sido atropellada, silenciada e invisibilizada históricamente por normas sociales, culturales y religiosas que han limitado el conocimiento, la forma en que se habla y se entiende el placer sexual de las mujeres. Muchos artículos y estudios han señalado que la sexualidad suele enseñarse de manera incompleta, lo que puede generar  desconocimiento o ideas negativas sobre el propio cuerpo. Analizar este tema en estudiantes universitarias es relevante porque este grupo se encuentra en una etapa de desarrollo, y en la práctica sexual mientras están construyendo sus propias ideas sobre la sexualidad, las relaciones y el cuerpo.
+Esta pregunta nace de la observación. En la experiencia propia, me he visto a mí mismo “doomscrolling” mientras procrastino los trabajos de la universidad. El resultado es una fatiga mental que imposibilita la realización de estos. También he podido observar a mi hermano siendo absorbido por el “doomscrolling” cuando se sienta a estudiar en su escritorio. En la universidad, se puede ver a una gran parte de los estudiantes en sus teléfonos mientras esperan por sus clases o durante su tiempo libre. Esto no implica que necesariamente estén “doomscrolling” pero con frecuencia se encuentran dentro de aplicaciones de entretenimiento y redes sociales. Este es un asunto relevante y de gran importancia, pues no hay conciencia ni autorregulación en el uso prolongado de los teléfonos, lo que podría estar afectando el rendimiento académico de los estudiantes. Podemos inferir que el tiempo de uso de pantalla se extiende fuera del horario académico, particularmente en la comodidad del hogar, donde el “doomscrolling” se manifiesta con mayor intensidad. Las horas perdidas es tiempo sacrificado que pudo haberse utilizado para el estudio y la realización de trabajos académicos. Aquí es donde entra en juego la procrastinación.
 
 ¿Cómo aborda su pregunta una brecha en la literatura relevante?
-Esta investigación aborda una brecha en la literatura porque muchos estudios sobre sexualidad se han enfocado principalmente en la educación sexual infantil o en aspectos biológicos de la sexualidad. No obstante, existe menos investigación sobre cómo las normas sociales y culturales influyen específicamente en el placer sexual femenino. Además, investigar este tema dejándome llevar por las mujeres universitarias permite analizar cómo esto sigue influyendo incluso en personas jóvenes con mayor acceso a educación e información.
+La literatura muestra que existe una relación entre el uso problemático de los teléfonos y la procrastinación académica [@hidalgo-fuentes2021; @salguero-pazos2025; @ling2020]. La procrastinación se explica como un problema en la autorregulación [@steel2007]. Mi pregunta aborda una brecha en la literatura, específicamente el rol del “doomscrolling” dentro de ese uso problemático de los teléfonos. El “doomscrolling” es un fenómeno relativamente reciente. TikTok popularizó la tendencia de los videos cortos y el “scrolling “continuo; posteriormente, surgieron funciones como los “Reels” de Instagram y los “Shorts” de YouTube. Este tema no se ha estudiado mucho y hay mucho que aprender. 
 
 ¿Cuáles son las implicaciones de responderla?
-Responder esta pregunta permitirá comprender mejor cómo las normas socioculturales influyen en la manera en que las mujeres experimentan su sexualidad, específicamente el placer.  Los resultados pueden ayudar a identificar que es lo que realmente  limita el reconocimiento del placer sexual femenino. Además, esto puede contribuir a mejorar la educación sexual y promover una visión más abierta y completa de la sexualidad, basada en el respeto, la autonomía, el conocimiento del propio cuerpo y el bienestar
+Responder esta pregunta nos ayuda a entender cómo los estudiantes utilizan el tiempo en sus teléfonos, cuántas horas dedican a aplicaciones de entretenimiento y redes sociales con funciones de “doomscrolling”, y la posible relación que esto tiene con la procrastinación académica. Este estudio podría revelar información importante sobre el “doomscrolling” y su efecto en el rendimiento académico de los estudiantes universitarios. Con esta información, se puede llamar la atención de los estudiantes de nuestro recinto para que tomen conciencia del uso problemático del teléfono y de los efectos del “doomscrolling”, con la intención de ayudarles a superar las dificultades asociadas a la procrastinación y aumentar su desempeño académico.
 \]
 
 ------------------------------------------------------------------------
@@ -113,130 +109,87 @@ Una vez que haya delimitado su tema, elabore una pequeña bibliografía anotada 
 
 ## Sus fuentes anotadas
 
-\[ **1.** [@bravo2020abordajes]
+\[ **1.** [@hidalgo-fuentes2021]
 
-**Anotación:** \[ En este artículo la autora pone en perspectiva el placer sexual, no solamente desde un punto de vista biológico o médico como lleva estudiándose por años. Ella explica que el placer sexual es algo más complicado, tomando en consideración factores sociales, culturales, antropológicos, roles de género y cómo esto impacta directamente a nosotros los seres humanos como vivimos y experimentamos nuestra sexualidad. En la lectura explica que la sexualidad se construye a través de todos esos factores sociales. En la lectura se divide la sexualidad de dos maneras: moderna y posmoderna. La sexualidad moderna es la que nos han inculcado a muchos y es la que la mayoría conoce, esta se basa en las ideologías tradicionales sobre el comportamiento sexual de las personas. La posmoderna, explica los cambios que han ocurrido sobre la percepción de la sexualidad gracias a los factores y movimientos sociales que han impulsado este cambio. En conclusión, la autora recomienda seguir investigando sobre el placer sexual desde una perspectiva que incluya más a las ciencias sociales. \]
+**Anotación:** \[ Este artículo establece que el uso problemático de los teléfonos se ha convertido en un problema de nivel mundial. Los estudiantes universitarios son propensos a este problema. Se descubrió una relación positiva de intensidad moderada entre el uso problemático de los teléfonos y la procrastinación académica. Estos son los resultados de una investigación meta-analítica que se basó en el estudio de referencias bibliográficas: 18 artículos y casi 9,000 participantes. \]
 
-**2.** [@ronconi2023educacion]
+**2.** [@salguero-pazos2025]
 
-**Anotación:** \[Este artículo ofrece sugerencias y críticas constructivas sobre como debería desarrollarse la educación sexual en América Latina y el Caribe en el futuro. Explican que la educación sexual integral es algo esencial que todos los seres humanos debemos saber. Una educación sexual integral nos provee las herramientas necesarias para crear mejores vínculos, respetar la diversidad, eliminar los roles de género, conectar con nuestra sexualidad y placer y garantizar autonomía sobre nuestros cuerpos. Las autoras destacan que en la integralidad están todas las perspectivas, no solamente las ciencias sociales o las ciencias naturales, sino que ambas deberían complementarse. Destacan que los docentes encargados de educar a las futuras generaciones deben de capacitarse de manera respetuosa y adecuada para enseñar estos temas de suma importancia. Se hace énfasis en promover y fortalecer las políticas públicas para promover una educación sexual en todos los países de Latinoamérica. \]
+**Anotación:** \[ Este estudio analiza la procrastinación a nivel psicológico y la relaciona con el uso de los aparatos electrónicos. Uno de los objetivos es describir los hábitos de uso de los dispositivos electrónicos. Para esta investigación se realizó un análisis de datos en una muestra de 924 estudiantes españoles. El estudio encontró una correlación entre el uso elevado de la pantalla y un nivel bajo de autorregulación, autoeficacia y autoestima, así como niveles altos de ansiedad. \]
 
-**3.** [@rivas2019construccion] 
+**3.** [@ling2020] 
 
-**Anotación:** \[El artículo profundiza sobre los discursos hegemónicos sobre la sexualidad de las mujeres utilizando el fenómeno de la acucación o eyaculación. Se explica cómo estos discursos sólo promueven ignorancia y desinformación teniendo un impacto físico, mental y emocional limitando la posibilidad de las mujeres de experimentar con el placer sexual. La autora explica que el desconocimiento no se debe a la falta de investigación médica, sino que esto se debe a la invisibilización del cuerpo femenino. Se argumenta que la filosofía y la religión han influido en cómo la sociedad percibe la sexualidad femenina. Se utilizan textos académicos para poder lograr identificar cómo estos han producido la ignorancia sobre en este caso, la eyaculación femenina. El propósito de la autora es promover una visión de la sexualidad basándose en la autonomía.\]
+**Anotación:** \[ Este artículo estudia la adicción a los teléfonos en estudiantes universitarios. La adicción al teléfono tiene una relación positiva con la procrastinación académica y una relación negativa con la autoeficacia académica. La autoeficacia académica es mediadora entre la adicción al teléfono y la procrastinación académica. \]
 
-**4.** [@de2008cuerpo]
+**4.** [@steel2007]
 
-**Anotación:** \[En este artículo se analiza cómo la medicina medieval y la religión veían o estudiaban el cuerpo femenino y el placer sexual. La religión, que acapara mucho poder en ese contexto histórico, creaba muchas limitaciones para las mujeres. En el texto se explica que en la medicina medieval estudiaban el sexo únicamente desde una perspectiva reproductiva y biológica. Estas ideas que se tenían sobre el placer sexual femenino estaban ligadas a las normas socioculturales y religiosas de ese contexto histórico, limitando la comprensión de nuestra sexualidad. Para concluir, la autora expone que la medicina medieval exploró la sexualidad femenina solamente dándole atención a la reproducción y descartando completamente el placer sexual.\] 
+**Anotación:** \[ Se define la procrastinación como una forma prevalente de autorregulación fracasada. El estudio se basó en un análisis meta-analítico de posibles causas y efectos de la procrastinación. El trabajo es complementado con la teoría de motivación temporal. \] 
 
-**5.**[@castro2014placer]
+**5.**[@statici2023]
 
-**Anotación:** \[Este artículo indaga a profundidad el rol de la filosofía y cómo esto ha influido en la construcción del cuerpo femenino. La autora explica que la filosofía y la religión le ha asignado a las mujeres asumir ciertos roles como la maternidad, crianza, cuidado y obediencia. Negándoles su autonomía y el placer sexual. La lectura revela los argumentos de dichos filósofos y expone como ellos justifican sus ideologías que va en contra de las mujeres. Algunos de ellos asociaban el cuerpo de la mujer como pecado y otros veían los cuerpos femeninos como algo inferior a las almas. Estas ideas reforzaban los roles sociales y la cultura patriarcal. La autora concluye en cómo estas ideas contribuyen a la desigualdad de los hombres y las mujeres cuando se trata de explorar el placer sexual.] 
+**Anotación:** \[ Este estudio asocia la intolerancia a la incertidumbre con el bienestar mental. El doomscrolling se incluyó en el análisis de moderación y mediación. Los resultados muestran que la intolerancia a la incertidumbre es un riesgo para el bienestar mental y que el doomscrolling aumenta el riesgo. \]
 
-**6.** [@cevallos2014educacion]
-
-**Anotación:** \[Este artículo se basa en unos estudios cualitativos basados en grupos focales con padres de familias en los centros educativos en la ciudad de Cuenca en Ecuador. El propósito es entender cómo los padres perciben lo que es la sexualidad infantil  y que ellos hacen para la educación sexual de sus hijos. En la lectura se muestra que la mayoría tiene una visión muy cerrada y limitada de la sexualidad. Solamente lo vinculan con la reproducción y aspectos biológicos. Explican que por culpa de los tabúes y las percepciones tradicionales de lo que es la sexualidad dificulta y limita a los padres sobre la sexualidad con sus hijos. Los autores promueven la educación sexual integral y argumentan que todo debe comenzar desde los hogares. ]
-
-**7.** [@marmol2016conocimientos]
-
-**Anotación:** \[Este estudio presenta los conocimientos sobre sexualidad de estudiantes universitarios que comienzan sus estudios en Educación Infantil y Primaria. El objetivo de todo esto era probar que tanto conocían sobre la sexualidad, enfermedades de transmisión sexual y métodos anticonceptivos. Se demostró que la mayoría de los estudiantes estaban sexualmente activos. Sin embargo, se muestra que hay mucho desconocimiento en la sexualidad en general. Se revela que la mayoría de los estudiantes se protegen para evitar embarazos no deseados pero no para evitar enfermedades de transmisión sexual. Además, hay una gran diferencia en el conocimiento entre hombres y mujeres, las mujeres llevan la delantera. La lectura finaliza explicando que la educación sexual debe reforzarse en la adolescencia y juventud.] 
-
-**8.** [@ballesteros2014voz] 
-
-**Anotación:** \[Este artículo expone las experiencias de las mujeres que han sido víctimas de la mutilación genital femenina y cómo esto causa daños permanentes en su salud sexual y reproductiva. La investigación se basa en mujeres inmigrantes que vienen de África Subsahariana que viven en España. Este estudio presenta como eso les ha afectado en su vida, en el parto, embarazo, relaciones de pareja, etc. Se revela que actualmente algunos países practican la mutilación femenina por presión social y familiar. Las mujeres relatan que esta tradición sigue pasando de generación en generación. Explican como esto les afecta en sus relaciones y las consecuencias negativas que esto les trae como experimentar dolor al tener relaciones sexuales y dificultad para sentir placer. Los autores concluyen con que la mutilación genital femenina trae consecuencias dolorosas para las mujeres.]\]
+\]
 
 ---
 
 # Declaración de uso de MEL {.unnumbered}
 
-\[Si se utilizó herramientas de Modelos Extensos de Lenguaje (MEL/LLM) al final para que verificara si las referencias en formato APA & estan correctas. Tambien le pregunte como iba un paso atras ya que habia cometido un error.\]
+\[ Utilicé ChatGPT para corregir errores ortográficos \]
 
 ------------------------------------------------------------------------
 
 # Referencias {.unnumbered}
 
-::: { @article{bravo2020abordajes,
-  title={Abordajes socioculturales sobre pr{\'a}cticas y significados del placer sexual},
-  author={Bravo Ponce, Alejandra},
-  journal={Iztapalapa. Revista de ciencias sociales y humanidades},
-  volume={41},
-  number={88},
-  pages={43--72},
-  year={2020},
-  publisher={Universidad Aut{\'o}noma Metropolitana}
+::: { @article{hidalgo-fuentes2021,
+  title = {Uso problemático del smartphone y procrastinación en estudiantes: meta-análisis},
+  author = {Hidalgo-Fuentes, S.},
+  journal = {Electronic Journal of Research in Educational Psychology},
+  volume = {20},
+  number = {57},
+  pages = {},
+  year = {2021},
+  doi = {https://doi.org/10.25115/ejrep.v20i57.5629}
 }
 
-@article{ronconi2023educacion,
-  title={Educaci{\'o}n sexual integral en Am{\'e}rica Latina y el caribe: D{\'o}nde estamos y hacia d{\'o}nde deber{\'\i}amos ir},
-  author={Ronconi, Liliana and Espi{\~n}eira, Brenda and Guzm{\'a}n, Soledad},
-  journal={Latin american legal studies},
-  volume={11},
-  number={1},
-  pages={246--296},
-  year={2023},
-  publisher={SciELO Chile}
+@article{salguero-pazos2025,
+  title = {Exploring the relationship between electronic device use and psychological dimensions of procrastination in university students},
+  author = {Salguero-Pazos, M. & Reyes-de-Cózar, S.},
+  journal = {Behavioural Sciences},
+  volume = {16},
+  number = {1},
+  pages = {},
+  year = {2025},
+  doi = {https://doi.org/10.3390/bs16010006}
 }
 
-@article{rivas2019construccion,
-  title={La construcci{\'o}n social del placer sexual femenino en occidente: el caso de la acuaci{\'o}n},
-  author={Rivas Lis, Patricia},
-  year={2019},
-  publisher={Universitat Oberta de Catalunya (UOC)}
+@article{ling2020,
+  title = {The mediating and buffering effect of academic self-efficacy on the relationship between smartphone addiction and academic procrastination},
+  author = {Ling Li, Haiyin Gao, Yanhua Xu},
+  journal = {Computers & Education},
+  volume = {159},
+  number = {104001},
+  pages = {},
+  year = {2020},
+  doi = {https://doi.org/10.1016/j.compedu.2020.104001}
 }
 
-@article{de2008cuerpo,
-  title={El cuerpo del deseo. El discurso m{\'e}dico medieval sobre el placer sexual},
-  author={de Calatrava, Paloma Moral},
-  journal={Studium Medievale. Revista de Cultura visual--Cultura escrita},
-  volume={1},
-  pages={135--147},
-  year={2008}
-}
-,
-  @title={El cuerpo del deseo. El discurso m{\'e}dico medieval sobre el placer sexual},
-  author={de Calatrava, Paloma Moral},
-  journal={Studium Medievale. Revista de Cultura visual--Cultura escrita},
-  volume={1},
-  pages={135--147},
-  year={2008}
+@article{steel2007,
+  title = {The Nature of Procrastination: A Meta-Analytic and Theoretical Review of Quintessential Self-Regulatory Failure},
+  author = {Steel, P.},
+  journal = {Psychological Bulletin},
+  volume = {133},
+  number = {1},
+  pages = {65--66},
+  year = {2007},
+  doi = {10.1037/0033-2909.133.1.65.}
 }
 
-@phdthesis{castro2014placer,
-  title={Placer, reproducci{\'o}n y exclusi{\'o}n femenina o de c{\'o}mo el cuerpo femenino ha sido excluido del ejercicio de la sexualidad},
-  author={Castro Far{\'\i}as, Jazm{\'\i}n Ernestina},
-  year={2014},
-  school={Universidad Aut{\'o}noma de la Ciudad de M{\'e}xico: Colegio de Humanidades y~…}
-}
-
-@article{cevallos2014educacion,
-  title={?` Educaci{\'o}n sexual para mi hijo e hija de preescolar (3-5 a{\~n}os)?: Percepciones de padres y madres de familia},
-  author={Cevallos-Neira, Ana Cristina and Jerves-Hermida, Elena Monserrath},
-  journal={Revista Electr{\'o}nica Educare},
-  volume={18},
-  number={3},
-  pages={91--110},
-  year={2014},
-  publisher={http://creativecommons. org/licenses/by-nc-nd/3.0/}
-}
-
-@article{marmol2016conocimientos,
-  title={Conocimientos y actitudes sobre sexualidad en adolescentes de primer curso de Grado en Educaci{\'o}n Infantil y Primaria de la Universidad de Ja{\'e}n},
-  author={M{\'a}rmol, Mar{\'\i}a Rodr{\'\i}guez and Cruz, Rafael Mu{\~n}oz and Mu{\~n}oz, In{\'e}s S{\'a}nchez},
-  journal={Enfermer{\'\i}a global},
-  volume={15},
-  number={1},
-  pages={167--173},
-  year={2016},
-  publisher={Universidad de Murcia}
-}
-
-@article{ballesteros2014voz,
-  title={La voz de las mujeres sometidas a mutilaci{\'o}n genital femenina en la Regi{\'o}n de Murcia},
-  author={Ballesteros Meseguer, Carmen and Almansa Mart{\'\i}nez, Pilar and Pastor Bravo, Mar{\'\i}a del Mar and Jim{\'e}nez Ruiz, Ismael},
-  journal={Gaceta Sanitaria},
-  volume={28},
-  pages={287--291},
-  year={2014},
-  publisher={SciELO Public Health}
+@article{statici2023,
+  title = {Intolerance of uncertainty and mental wellbeing: Serial mediation by rumination and doomscrolling},
+  author = {Satici, B., Saricali, M., Satici, S. A., & Griffiths, M. D.},
+  journal = {Current Psychology},
+  year = {2023},
+  doi = {10.1080/0144929X.2024.2314747}
 }
 :::}
